@@ -1,0 +1,7 @@
+{
+  "status": "BAD_REQUEST",
+  "message": "Method Argument Not Valid",
+  "errors": [
+        "A product must have from 1 to 5 categories."
+  ]
+}

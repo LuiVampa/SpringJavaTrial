@@ -1,0 +1,7 @@
+{
+  "status": "BAD_REQUEST",
+  "message": "Method Argument Not Valid",
+  "errors": [
+        "Expiration date must expire not less than 30 days since now."
+  ]
+}

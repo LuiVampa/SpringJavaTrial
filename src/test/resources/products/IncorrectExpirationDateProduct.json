@@ -1,0 +1,20 @@
+{
+  "name": "La Vieille Ferme Rouge",
+  "featured": false,
+  "expirationDate": "2019-09-05T16:30:22.035",
+  "itemsInStock": 0,
+  "receiptDate": null,
+  "rating": 5.0,
+  "brand": {
+    "name": "Bordeaux",
+    "country": "France"
+  },
+  "categories": [
+    {
+      "name": "Drinks"
+    },
+    {
+      "name": "Alcohol"
+    }
+  ]
+}

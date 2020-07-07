@@ -1,0 +1,7 @@
+{
+  "status": "BAD_REQUEST",
+  "message": "Method Argument Not Valid",
+  "errors": [
+        "Product name must have length from 1 to 255."
+  ]
+}
